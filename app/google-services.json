@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "659778143237",
+    "firebase_url": "https://employee-management-syst-906b6-default-rtdb.firebaseio.com",
+    "project_id": "employee-management-syst-906b6",
+    "storage_bucket": "employee-management-syst-906b6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659778143237:android:113281900c03b107c9886c",
+        "android_client_info": {
+          "package_name": "com.mrudul.ems_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBlzCJRM7BVOsIGLH9B9pOl8Kh-VThR04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659778143237:android:8cdb50d1bee779c7c9886c",
+        "android_client_info": {
+          "package_name": "com.mrudul.ems_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBlzCJRM7BVOsIGLH9B9pOl8Kh-VThR04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
